@@ -1,6 +1,6 @@
 size,path
-susceptible
-hybrid immunity 
+,susceptible
+,hybrid immunity 
 4.5,fully vaccinated and recovered/hybrid immunity 
 0.2,fully vaccinated and recovered/susceptible
 0.2,partially vaccinated and recovered/hybrid immunity
