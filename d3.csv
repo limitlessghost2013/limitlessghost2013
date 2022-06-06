@@ -1,33 +1,17 @@
 size,path
-,d3
-,d3/d3-array
-90,d3/d3-array/array.js
-86,d3/d3-array/ascending.js
-238,d3/d3-array/bisect.js
-786,d3/d3-array/bisector.js
-72,d3/d3-array/constant.js
-86,d3/d3-array/descending.js
-135,d3/d3-array/deviation.js
-553,d3/d3-array/extent.js
-1876,d3/d3-array/histogram.js
-43,d3/d3-array/identity.js
-451,d3/d3-array/max.js
-362,d3/d3-array/mean.js
-452,d3/d3-array/median.js
-339,d3/d3-array/merge.js
-451,d3/d3-array/min.js
-63,d3/d3-array/number.js
-182,d3/d3-array/pairs.js
-161,d3/d3-array/permute.js
-416,d3/d3-array/quantile.js
-344,d3/d3-array/range.js
-357,d3/d3-array/scan.js
-285,d3/d3-array/shuffle.js
-295,d3/d3-array/sum.js
-361,d3/d3-array/threshold/freedmanDiaconis.js
-180,d3/d3-array/threshold/scott.js
-96,d3/d3-array/threshold/sturges.js
-672,d3/d3-array/ticks.js
-356,d3/d3-array/transpose.js
-540,d3/d3-array/variance.js
-99,d3/d3-array/zip.js
+4.5,population/fully vaccinated and recovered/hybrid immunity 
+0.2,population/fully vaccinated and recovered/susceptible
+0.2,population/partially vaccinated and recovered/hybrid immunity
+8,population/fully vaccinated and unconfirmed recovered/hybrid immunity 
+0.9,population/fully vaccinated and unconfirmed recovered/susceptible
+39.9,population/fully vaccinated/vaccine_induced immunity 
+9.1,population/fully vaccinated/susceptible
+0.4,population/partially vaccinated and unconfirmed recovered/hybrid immunity 
+0.1,population/partially vaccinated and unconfirmed recovered/susceptible
+0.3,population/partially vaccinated/vaccine_induced immunity 
+1.3,population/partially vaccinated/susceptible 
+21.6,population/unvaccinated and not recovered/susceptible 
+3.7,population/unconfirmed recovered/susceptible
+6.6,population/unconfirmed recovered/natural immunity from unconfirmed recovery
+0.8,population/recovered/susceptible
+2.4,population/recovered/natural immunity  
