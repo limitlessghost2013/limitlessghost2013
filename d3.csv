@@ -1,17 +1,17 @@
 size,path
-4.5,population/fully vaccinated and recovered/hybrid immunity 
-0.2,population/fully vaccinated and recovered/susceptible
-0.2,population/partially vaccinated and recovered/hybrid immunity
-8,population/fully vaccinated and unconfirmed recovered/hybrid immunity 
-0.9,population/fully vaccinated and unconfirmed recovered/susceptible
-39.9,population/fully vaccinated/vaccine_induced immunity 
-9.1,population/fully vaccinated/susceptible
-0.4,population/partially vaccinated and unconfirmed recovered/hybrid immunity 
-0.1,population/partially vaccinated and unconfirmed recovered/susceptible
-0.3,population/partially vaccinated/vaccine_induced immunity 
-1.3,population/partially vaccinated/susceptible 
-21.6,population/unvaccinated and not recovered/susceptible 
-3.7,population/unconfirmed recovered/susceptible
-6.6,population/unconfirmed recovered/natural immunity from unconfirmed recovery
-0.8,population/recovered/susceptible
-2.4,population/recovered/natural immunity  
+4.5,fully vaccinated and recovered/hybrid immunity 
+0.2,fully vaccinated and recovered/susceptible
+0.2,partially vaccinated and recovered/hybrid immunity
+8,fully vaccinated and unconfirmed recovered/hybrid immunity 
+0.9,fully vaccinated and unconfirmed recovered/susceptible
+39.9,fully vaccinated/vaccine_induced immunity 
+9.1,fully vaccinated/susceptible
+0.4,partially vaccinated and unconfirmed recovered/hybrid immunity 
+0.1,partially vaccinated and unconfirmed recovered/susceptible
+0.3,partially vaccinated/vaccine_induced immunity 
+1.3,partially vaccinated/susceptible 
+21.6,unvaccinated and not recovered/susceptible 
+3.7,unconfirmed recovered/susceptible
+6.6,unconfirmed recovered/natural immunity from unconfirmed recovery
+0.8,recovered/susceptible
+2.4,recovered/natural immunity  
