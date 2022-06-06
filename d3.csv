@@ -1,6 +1,13 @@
 size,path
-,susceptible
-,hybrid immunity 
+,fully vaccinated and recovered
+,partially vaccinated and recovered
+,fully vaccinated and unconfirmed recovered
+,fully vaccinated
+,partially vaccinated and unconfirmed recovered
+,partially vaccinated
+,unvaccinated and not recovered
+,unconfirmed recovered
+,recovered
 4.5,fully vaccinated and recovered/hybrid immunity 
 0.2,fully vaccinated and recovered/susceptible
 0.2,partially vaccinated and recovered/hybrid immunity
